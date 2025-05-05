@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/f8083a6d-3862-408e-b520-56116c78591d)
 
 ## Execução dos códigos
-Para executar os códigos do notebook (nome), abra o arquivo no Google Colab e execute as células sequencialmente.
+Para executar os códigos do notebook (Case iFood completo.ipynb), abra o arquivo no Google Colab e execute as células sequencialmente.
 Todas as bibliotecas já foram importadas e não há a necessidade de realizar a instalação de nenhuma dependência
 
 ## Introdução
