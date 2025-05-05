@@ -3,8 +3,7 @@
 ![image](https://github.com/user-attachments/assets/f8083a6d-3862-408e-b520-56116c78591d)
 
 ## Execução dos códigos
-Para executar os códigos do notebook (Case iFood completo.ipynb), abra o arquivo no Google Colab e execute as células sequencialmente.
-Todas as bibliotecas já foram importadas e não há a necessidade de realizar a instalação de nenhuma dependência
+Para executar os códigos do notebook (Case iFood completo.ipynb), vá até a pasta Notebook e abra o arquivo no Google Colab, após isso execute as células sequencialmente.
 
 ## Introdução
 Este relatório apresenta a análise de viabilidade financeira de uma campanha de cupons testada via experimento A/B no iFood, além de recomendações para otimizar a iniciativa. Essa análise tem como objetivo demonstrar o impacto financeiro da campanha, o tempo necessário para atingir lucro e propor melhorias para maximizar o retorno sobre o investimento (ROI). A análise considera métodos estaísticos para avaliar se as mudanças foram ao acaso ou estatísticamente relevantes, além de apresentar cenários com e sem outliers (dados cujo os valores não representam o comportamento médio) para garantir robustez.
